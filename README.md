@@ -17,3 +17,11 @@ This is an assignment for CS1701. The assignment task is to create a basic calcu
 - Perform the calculation and display the result.
 - Ask the user if they want to continue (‘Y’ or ‘N’). If the users selects ‘Y’, it should continue running. If
 the user selects ‘N’, it should exit.
+
+# Proposed Additional Functionalities(Optional)
+- Graphical User Interface (for example, windows, buttons, textboxes, drop-down menu, etc.)
+- Dealing with erroneous user input (for example, user enters a String instead of a number).
+- Other scientific calculator features such as memory
+- Extra operations (such as logs, factorial, and primes), unit conversions, and trigonometric functions
+- File reading/writing such as reading user input from a text file and outputting the results of the
+calculations into a text file
