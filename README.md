@@ -26,4 +26,4 @@ the user selects ‘N’, it should exit.
 - File reading/writing such as reading user input from a text file and outputting the results of the
 calculations into a text file
 
-<a href="https://github.com/LeoRuss/Assign0_Calculator/blob/main/App.java" download="src file">Download app src</a>
+<a href="https://github.com/LeoRuss/Assign0_Calculator/blob/main/App.java" download="App.java">Download app src</a>
